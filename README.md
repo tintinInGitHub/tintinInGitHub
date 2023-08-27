@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tintiningithub&label=Profile%20views&color=0e75b6&style=flat" alt="tintiningithub" /> </p>
 
+- ❓ You can call me Tin or Yours.
+  
 - 🔭 I’m currently working on **Web3 Project**
 
 - 🌱 I’m currently learning **Blockchain Dapp Development**
+  
+-  📦 Thanks for visiting Nice to meet you, and until we meet again.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
