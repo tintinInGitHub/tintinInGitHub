@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm tintinInGitHub</h1>
-<h3 align="center">I am a recent graduate from Thammasat University with a degree in Computer Science.</h3>
+<h3 align="center">I am a Junior Developer , graduate from Thammasat University with a degree in Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tintiningithub&label=Profile%20views&color=0e75b6&style=flat" alt="tintiningithub" /> </p>
 
