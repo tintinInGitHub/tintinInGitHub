@@ -5,7 +5,7 @@
 
 - ❓ You can call me Tin or Yours.
   
-- 🔭 I’m currently working on **Web3 Project**
+- 🔭 I’m currently working on **Web3 Project** & **Mobile Application**
 
 - 🌱 I’m currently learning **Blockchain Dapp Development**
   
